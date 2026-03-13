@@ -1,0 +1,7 @@
+<resources>
+    <color name="black_bg">#1E1E1E</color>
+    <color name="button_bg_color">#333333</color>
+    <color name="button_stroke">#555555</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="accent_cyan">#00E5FF</color>
+</resources>

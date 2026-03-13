@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Night Mode theme -->
+    <style name="Theme.ScientificCalculator" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Primary colors for night mode -->
+        <item name="colorPrimary">@color/black_bg</item>
+        <item name="colorPrimaryDark">@color/black_bg</item>
+        <item name="colorAccent">@color/accent_cyan</item>
+
+        <!-- Status bar & navigation bar colors -->
+        <item name="android:statusBarColor">@color/black_bg</item>
+        <item name="android:navigationBarColor">@color/black_bg</item>
+
+        <!-- Text colors for night mode -->
+        <item name="android:textColor">@color/text_white</item>
+        <item name="android:textColorPrimary">@color/text_white</item>
+        <item name="android:textColorSecondary">@color/text_white</item>
+
+        <!-- No action bar for full-screen look -->
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+</resources>
